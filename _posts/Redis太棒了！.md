@@ -1,6 +1,6 @@
 title: Redis太棒了！
 date: 2016-01-09 00:37:04
-tags: 
+tags: redis
 ---
 最近在做一个分析日志的程序。
 
