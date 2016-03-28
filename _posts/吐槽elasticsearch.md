@@ -1,6 +1,6 @@
 title: 吐槽elasticsearch
 date: 2016-03-27 16:46:59
-tags:[吐槽]
+tags: [吐槽]
 ---
 ElasticSearch是一个非常非常好的工具，用它来处理拿到的数据很赞~可以用到网站上或者其他别的地方。不过有个非常不爽的地方就是，我说的都是java用起来，就是它对elasticsearch的jar包的版本，以及依赖的lucene包的版本要求非常高。二者必须和你安装的Elasticsearch一致才行。
 
